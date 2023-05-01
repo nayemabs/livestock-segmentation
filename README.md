@@ -1,6 +1,6 @@
 <div align="center">
   <img src="resources/acme.svg" width="500"/>
-  <img src="resources/mmseg-logo.png" width="600"/>
+  <img src="resources/mmseg-logo.png" width="450"/>
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">OpenMMLab website</font></b>
@@ -41,8 +41,11 @@ It is a part of the OpenMMLab project.
 
 The master branch works with **PyTorch 1.5+**.
 
-![demo image](resources/seg_demo.gif)
+DeeplabV3+ has been used for the cattle segmentation task.
 
+<div align="center">
+  <img src="resources/side.jpg" width="500"/>
+</div>
 ### Major features
 
 - **Unified Benchmark**
